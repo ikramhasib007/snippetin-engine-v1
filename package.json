@@ -1,0 +1,36 @@
+{
+  "name": "snippetin-engine-v1",
+  "version": "1.0.0",
+  "description": "Snippetin Engine Version 1.0.0",
+  "main": "bootstrap.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ikramhasib007/snippetin-engine-v1.git"
+  },
+  "keywords": [
+    "snippetin"
+  ],
+  "author": "SnippetIn",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ikramhasib007/snippetin-engine-v1/issues"
+  },
+  "homepage": "https://github.com/ikramhasib007/snippetin-engine-v1#readme",
+  "dependencies": {
+    "@hapi/boom": "^8.0.1",
+    "@hapi/hapi": "^18.4.0",
+    "@hapi/inert": "^5.2.2",
+    "@hapi/joi": "^16.1.7",
+    "@hapi/vision": "^5.5.4",
+    "dotenv": "^8.1.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.6.2",
+    "@babel/preset-env": "^7.6.2",
+    "@babel/register": "^7.6.2",
+    "nodemon": "^1.19.3"
+  }
+}
