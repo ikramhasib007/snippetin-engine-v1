@@ -28,7 +28,7 @@
     "dotenv": "^8.1.0",
     "hapi-auth-jwt2": "^8.7.0",
     "hapi-router": "^5.0.0",
-    "hapi-swagger": "^10.1.2",
+    "hapi-swagger": "^14.5.5",
     "mongoose": "^5.7.4",
     "qs": "^6.9.0"
   },
