@@ -30,7 +30,7 @@
     "hapi-router": "^5.0.0",
     "hapi-swagger": "^10.1.2",
     "mongoose": "^5.7.4",
-    "qs": "^6.9.0"
+    "qs": "^6.9.7"
   },
   "devDependencies": {
     "@babel/core": "^7.6.2",
